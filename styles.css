@@ -1,0 +1,40 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+html {
+  background-color: lightgray;
+}
+
+h1 {
+  text-align: center;
+}
+
+.header-image {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.recipe-list {
+  font-family: Verdana, Tahoma, "sans-serif";
+  display: block;
+  text-align: center;
+  line-height: 30px;
+  list-style-type: none;
+}
+
+.ingredients {
+  line-height: 2em;
+}
+
+.steps {
+  line-height: 20px;
+}
+
+#home {
+  display: block;
+  text-align: center;
+  margin-left: 0%;
+  margin-right: 0%;
+}
